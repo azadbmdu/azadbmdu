@@ -22,8 +22,7 @@
 
 ## 📫 Connect with Me
 - 📩 Email: azadsaifi70149@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/flutterwithazad](#)  
-- 🐦 Twitter: [twitter.com/azadsaifi](#)  
+- 💼 LinkedIn: [linkedin.com/in/flutterwithazad](https://www.linkedin.com/in/flutterwithazad/)  
 - 🌐 Portfolio: [azadsaifi.dev](#)  
 
 ⭐ **Let's build something amazing with Flutter! 🚀**
