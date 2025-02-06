@@ -21,7 +21,7 @@
 - **Deep dive into Firebase and cloud functions**  
 
 ## 📫 Connect with Me
-- 📩 Email: azadsaifi.dev@gmail.com  
+- 📩 Email: azadsaifi70149@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/flutterwithazad](#)  
 - 🐦 Twitter: [twitter.com/azadsaifi](#)  
 - 🌐 Portfolio: [azadsaifi.dev](#)  
